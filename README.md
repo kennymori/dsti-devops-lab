@@ -1,3 +1,2 @@
 # dsti-devops-lab
-
-msg by mori: I feel like a kebab.
+this is just to find a kind of test of git conflicts situation 
